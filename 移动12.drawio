@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T16:02:05.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="GDrzRNq8ZK1irg0G2igl" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T16:02:36.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="b_-SKhL7rW6CHzGKnSSE" version="23.1.7" type="github">
   <diagram name="第 1 页" id="ZKyC8n9Ih3DnxyF2SCbh">
     <mxGraphModel dx="1542" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="85" y="190" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XX7fhBMlPwWDM-JIPvMx-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;②基于高效流水并行的数据通信与并行优化&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="320" height="30" as="geometry" />
+          <mxGeometry x="320" y="190" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XX7fhBMlPwWDM-JIPvMx-7" value="&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;③基于混合存储和数据缓存的异构设备协同策略&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="360" height="30" as="geometry" />
